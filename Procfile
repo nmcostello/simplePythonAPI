@@ -1,1 +1,1 @@
-web: gunicorn fibotut:fib-api-n
+web: gunicorn fibotut:app
