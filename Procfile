@@ -1,1 +1,1 @@
-web: gunicorn app:fibotut
+web: gunicorn fibotut:fibotut
